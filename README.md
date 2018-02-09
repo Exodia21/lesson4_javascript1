@@ -18,7 +18,7 @@ https://exodia21.github.io/lesson4_javascript1/
 ### Lessons Learned in the Assignment:
 1. Learning the background & concepts of javascript and some of the do's & don'ts for beginners.
 2. Understanding order of operation for javascript in order to place it in HTML. This also includes variables. 
-3. Getting more familiar and better understaning of what is developer tools and to use to certain funicutions within it. 
+3. Getting more familiar and better understanding of what is developer tools and to use to certain functions within it. 
 
 
 

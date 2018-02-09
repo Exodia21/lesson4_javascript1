@@ -13,12 +13,12 @@ Rickey Riddley
 working with variables using the expense calculator application and uploading lesson 4 to GitHub
 
 ### View Project:
- https://exodia21.github.io/lesson4_javascript1/
+https://exodia21.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. Learning concepts of javascript and some do's & don'ts.
-2. Understanding order of operation for javascript in order to place it in HTML. 
-3. Getting more familiar with developer tools, Expense Calculator Application, and the necessary code for it to work properly.
+1. Learning the background & concepts of javascript and some of the do's & don'ts for beginners.
+2. Understanding order of operation for javascript in order to place it in HTML. This also includes variables. 
+3. Getting more familiar and better understaning of what is developer tools and to use to certain funicutions within it. 
 
 
 
